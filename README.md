@@ -37,7 +37,7 @@ Building mini projects to apply what I learned
 
 Testing and debugging my own code
 
-Everything in this repo shows the progression of my learning — from the basics all the way to more complex topics.
+Everything in this repo shows the progression of my learning from the basics all the way to more complex topics.
 
 Repo Structure
 I’ve organized the files by topic so it’s easy to follow:

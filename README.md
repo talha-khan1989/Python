@@ -42,9 +42,6 @@ Everything in this repo shows the progression of my learning — from the basics
 Repo Structure
 I’ve organized the files by topic so it’s easy to follow:
 
-Copy
-Edit
-.
 ├── 01_variables_and_data_types/
 ├── 02_lists_and_tuples/
 ├── 03_dictionaries/
@@ -54,6 +51,7 @@ Edit
 ├── 07_files_and_exceptions/
 ├── 08_projects_and_exercises/
 └── README.md
+
 Each folder contains practice files and exercises I worked on as I went through each part of the course.
 
 Why I Made This

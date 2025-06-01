@@ -1,11 +1,13 @@
 My Python Bootcamp Journey
+
 Hi there!
 
 Over the past 4 months, I’ve been part of a really intense 12 week, full-time, bootcamp with Generation UK&I,, where I learned and practiced all the core concepts of Python programming. This repo is basically a collection of everything I’ve studied and worked on during that time.
 
-I didn’t just watch tutorials — I made sure to get hands-on with every topic by doing exercises, writing my own scripts, and really trying to understand how things work by building them myself.
+I didn’t just watch tutorials. I made sure to get hands-on with every topic by doing exercises, writing my own scripts, and really trying to understand how things work by building them myself.
 
 What I Covered
+
 Here’s a quick overview of the main topics I worked through:
 
 Variables & Data Types – understanding strings, integers, floats, booleans, and how to use them.

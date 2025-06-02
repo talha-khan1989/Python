@@ -44,15 +44,15 @@ Everything in this repo shows the progression of my learning from the basics all
 
 I’ve organized the files by topic so it’s easy to follow:
 
--01_variables_and_data_types/
+- 01_variables_and_data_types/
 - 02_lists_and_tuples/
-03_dictionaries/
-04_user_input_and_loops/
-05_functions/
-06_classes_and_oop/
-07_files_and_exceptions/
-08_projects_and_exercises/
-README.md
+- 03_dictionaries/
+- 04_user_input_and_loops/
+- 05_functions/
+- 06_classes_and_oop/
+- 07_files_and_exceptions/
+- 08_projects_and_exercises/
+- README.md
 
 Each folder contains practice files and exercises I worked on as I went through each part of the course.
 

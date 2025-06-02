@@ -10,23 +10,24 @@ I didn’t just watch tutorials. I made sure to get hands-on with every topic by
 
 Here’s a quick overview of the main topics I worked through:
 
-Variables & Data Types – understanding strings, integers, floats, booleans, and how to use them.
+**Variables & Data Types** – understanding strings, integers, floats, booleans, and how to use them.
 
-Lists & Tuples – how to store and work with collections of data.
+**Lists & Tuples** – how to store and work with collections of data.
 
-Dictionaries & Sets – working with key-value pairs and unique items.
+**Dictionaries & Sets** – working with key-value pairs and unique items.
 
-User Input – gathering and handling input from users.
+**User Input** – gathering and handling input from users.
 
-Loops – using for and while loops to repeat tasks.
+**Loops** – using for and while loops to repeat tasks.
 
-Functions – writing reusable code with arguments and return values.
+**Functions** – writing reusable code with arguments and return values.
 
-Classes & Object-Oriented Programming – creating objects, using inheritance, and building more structured programs.
+**Classes & Object-Oriented Programming** – creating objects, using inheritance, and building more structured programs.
 
-Files & Exceptions – reading from and writing to files, and handling errors gracefully.
+**Files & Exceptions** – reading from and writing to files, and handling errors gracefully.
 
-How I Learned
+#**How I Learned**
+
 The bootcamp was structured around learning the theory first, then applying it right away. So for every topic, I practiced by:
 
 Writing scripts from scratch
@@ -39,7 +40,8 @@ Testing and debugging my own code
 
 Everything in this repo shows the progression of my learning from the basics all the way to more complex topics.
 
-Repo Structure
+#**Repo Structure**
+
 I’ve organized the files by topic so it’s easy to follow:
 
 01_variables_and_data_types/
@@ -54,5 +56,6 @@ README.md
 
 Each folder contains practice files and exercises I worked on as I went through each part of the course.
 
-Why I Made This
+#**Why I Made This**
+
 This repo is mainly for me to look back on what I’ve learned, but also to show potential employers what I’ve done and how far I’ve come. It’s been a challenging but really rewarding experience, and I’m excited to keep building on these skills in real-world projects.

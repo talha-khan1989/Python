@@ -6,7 +6,7 @@ Over the past 4 months, I’ve been part of a really intense 12 week, full-time,
 
 I didn’t just watch tutorials. I made sure to get hands-on with every topic by doing exercises, writing my own scripts, and really trying to understand how things work by building them myself.
 
-- What I Covered
+# **What I Covered**
 
 Here’s a quick overview of the main topics I worked through:
 

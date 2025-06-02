@@ -44,8 +44,8 @@ Everything in this repo shows the progression of my learning from the basics all
 
 I’ve organized the files by topic so it’s easy to follow:
 
-01_variables_and_data_types/
-02_lists_and_tuples/
+-01_variables_and_data_types/
+- 02_lists_and_tuples/
 03_dictionaries/
 04_user_input_and_loops/
 05_functions/
